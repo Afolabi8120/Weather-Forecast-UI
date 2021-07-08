@@ -1,0 +1,11 @@
+c:\users\snazzy\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\bin\Debug\UI_Designs.exe.config
+c:\users\snazzy\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\bin\Debug\UI_Designs.exe
+c:\users\snazzy\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\bin\Debug\UI_Designs.pdb
+c:\users\snazzy\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\snazzy\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\obj\Debug\UI_Designs.csprojResolveAssemblyReference.cache
+c:\users\snazzy\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\obj\Debug\UI_Designs.Properties.Resources.resources
+c:\users\snazzy\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\obj\Debug\UI_Designs.csproj.GenerateResource.Cache
+c:\users\snazzy\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\obj\Debug\UI_Designs.exe
+c:\users\snazzy\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\obj\Debug\UI_Designs.pdb
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\obj\Debug\UI_Designs.frmWeatherForecast.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\UI_Designs\UI_Designs\obj\Debug\UI_Designs.frmWeather.resources
